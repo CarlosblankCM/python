@@ -11,7 +11,7 @@
       "settings": {
         "clients": [
           {
-            "alterId": ALTER_ID,
+            "alterId": 6,
             "security": "none",
             "id": "V2_ID"
           }
